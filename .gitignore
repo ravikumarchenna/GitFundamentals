@@ -1,4 +1,8 @@
 /logs/
 /logs/*.log
 logs/
+<<<<<<< HEAD
 logs/*.*
+=======
+logs/*.*
+>>>>>>> origin/master
